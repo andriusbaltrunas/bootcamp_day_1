@@ -13,6 +13,8 @@ public class FirstLessonSecondTask {
     }
 
     private static void test(int size, Scanner sc) {
+        //comentras
+
         for (int i = 0; i < size; i++) {
             System.out.println("Iveskite " + i + " elementa");
             int numb = sc.nextInt();
